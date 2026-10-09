@@ -1,7 +1,6 @@
 # Yvelin Gansou
 
 I am a PhD-trained Statistician, Biostatistician, and Data Scientist passionate about using mathematics, statistical modeling, and AI to solve real-world problems from complex data.
-
 My work focuses on high-dimensional biomedical data, statistical genetics, public health analytics, predictive modeling, reproducible research, and applied machine learning.
 
 ## Core Interests
@@ -29,6 +28,4 @@ My work focuses on high-dimensional biomedical data, statistical genetics, publi
 - `datascience-ecosystem-notebook`: Python notebooks covering data analysis, visualization, and predictive modeling.
 - `tesla-analysis`: Financial data extraction and visualization using yfinance, web scraping, pandas, BeautifulSoup, and Plotly.
 
-## Professional Direction
 
-I am interested in Research Data Scientist, Statistical Scientist, Biostatistician, Biomedical Data Scientist, and Applied AI Scientist roles, especially in health, biotech, pharma, public health, and international organizations.

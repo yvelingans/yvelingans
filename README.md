@@ -1,16 +1,34 @@
-## Hi there 👋
+# Yvelin Gansou
 
-<!--
-**yvelingans/yvelingans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PhD-trained Statistician, Biostatistician, and Data Scientist passionate about using mathematics, statistical modeling, and AI to solve real-world problems from complex data.
 
-Here are some ideas to get you started:
+My work focuses on high-dimensional biomedical data, statistical genetics, public health analytics, predictive modeling, reproducible research, and applied machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Interests
+
+- Statistical modeling
+- Biostatistics
+- Machine learning
+- Biomedical and public health data
+- High-dimensional data analysis
+- Statistical genetics and epigenomics
+- Reproducible research
+- Applied AI
+
+## Technical Skills
+
+- **Programming:** R, Python, SAS, Stata
+- **Data Science:** pandas, NumPy, scikit-learn, matplotlib, seaborn
+- **Statistical Methods:** regression models, classification, longitudinal data, high-dimensional data, simulation studies
+- **Research Tools:** Git/GitHub, Jupyter Notebook, R packages, reproducible workflows
+
+## Selected Projects
+
+- `funInterMethSNP`: R package for functional regression-based testing of SNP–DNA methylation interaction effects.
+- `funInterMethSNP_SimuCont`: Simulation study for evaluating statistical methods in high-dimensional biomedical data.
+- `datascience-ecosystem-notebook`: Python notebooks covering data analysis, visualization, and predictive modeling.
+- `tesla-analysis`: Financial data extraction and visualization using yfinance, web scraping, pandas, BeautifulSoup, and Plotly.
+
+## Professional Direction
+
+I am interested in Research Data Scientist, Statistical Scientist, Biostatistician, Biomedical Data Scientist, and Applied AI Scientist roles, especially in health, biotech, pharma, public health, and international organizations.
